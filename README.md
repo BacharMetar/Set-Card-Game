@@ -11,8 +11,6 @@ Welcome to the README for the **Set Card Game** project! This Java-based card ga
 - [Thread and Synchronization](#thread-and-synchronization)
 - [Single-Player Mode](#single-player-mode)
 - [Multiplayer Mode](#multiplayer-mode)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -30,20 +28,19 @@ The **Set Card Game** is a Java application that brings the classic Set card gam
 1. Ensure you have Java Development Kit (JDK) installed on your system.
 2. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/set-card-game.git
+   git clone https://github.com/BacharMetar/Set_Card_Game.git
    ```
 3. Navigate to the project directory:
    ```
-   cd set-card-game
+   cd Set_Card_Game
    ```
 
 ## Usage
 
-Compile the source code and run the game using the following commands:
+run the game using the following commands:
 
 ```bash
-javac SetGame.java
-java SetGame
+java -jar Set_Card_Game.jar
 ```
 
 ## Thread and Synchronization
